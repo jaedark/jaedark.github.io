@@ -1,25 +1,7 @@
 name: CI
 
 on:
-  push:
-    branches:
-      - master
-      - "hotfix/*"
-    paths-ignore:
-      - ".github/**"
-      - "!.github/workflows/ci.yml"
-      - .gitignore
-      - "docs/**"
-      - README.md
-      - LICENSE
-  pull_request:
-    paths-ignore:
-      - ".github/**"
-      - "!.github/workflows/ci.yml"
-      - .gitignore
-      - "docs/**"
-      - README.md
-      - LICENSE
+  workflow_dispatch: # 수동 실행만 허용 (개인 블로그에선 불필요)
 
 jobs:
   build:
