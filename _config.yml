@@ -88,6 +88,13 @@ paginate: 10
 # -----------------------------------------------
 # Jekyll 기본 설정 (건드리지 않아도 됨)
 # -----------------------------------------------
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-include-cache
+
 markdown: kramdown
 highlighter: rouge
 
