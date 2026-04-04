@@ -50,6 +50,7 @@ social:
 # -----------------------------------------------
 google_analytics:
   id: "G-1K9WEVZ8EN"              # 예: G-XXXXXXXXXX
+  gt_js_url: "https://www.googletagmanager.com/gtag/js"
 
 # -----------------------------------------------
 # 댓글 (선택 - giscus 추천)
