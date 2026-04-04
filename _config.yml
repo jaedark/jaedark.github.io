@@ -59,9 +59,9 @@ comments:
   active: giscus
   giscus:
     repo: jaedark/jaedark.github.io
-    repo_id: ""       # giscus.app 에서 생성 후 입력
+    repo_id: "R_kgDOR3u6TA"       # giscus.app 에서 생성 후 입력
     category: "General"
-    category_id: ""   # giscus.app 에서 생성 후 입력
+    category_id: "DIC_kwDOR3u6TM4C5_vK"   # giscus.app 에서 생성 후 입력
     mapping: pathname
     input_position: bottom
     lang: ko
