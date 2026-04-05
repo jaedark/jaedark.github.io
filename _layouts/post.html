@@ -176,3 +176,18 @@ script_includes:
   </div>
   <!-- div.post-tail-wrapper -->
 </article>
+<!-- 댓글 -->
+  {% if page.comments and site.comments.active == 'giscus' %}
+  <script src="https://giscus.app/client.js"
+    data-repo="{{ site.comments.giscus.repo }}"
+    data-repo-id="{{ site.comments.giscus.repo_id }}"
+    data-category="{{ site.comments.giscus.category }}"
+    data-category-id="{{ site.comments.giscus.category_id }}"
+    data-mapping="{{ site.comments.giscus.mapping }}"
+    data-reactions-enabled="{{ site.comments.giscus.reactions_enabled }}"
+    data-input-position="{{ site.comments.giscus.input_position }}"
+    data-lang="{{ site.comments.giscus.lang }}"
+    crossorigin="anonymous"
+    async>
+  </script>
+  {% endif %}
