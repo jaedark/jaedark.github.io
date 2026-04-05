@@ -4,7 +4,7 @@ date: 2026-04-02 00:00:00 +0900
 categories: [블로그, 소개]
 tags: [블로그시작, ai개발자, 개발일지, gemini, fastapi]
 description: AI 개발자로 전환 중인 잠탱이의 기술 블로그가 오픈했습니다. 앞으로 뭘 올릴지, 왜 시작했는지 솔직하게 적어봤어요.
-comments: true   # 이 줄 추가
+comments: true
 ---
 
 안녕하세요, 잠탱이입니다 👋
