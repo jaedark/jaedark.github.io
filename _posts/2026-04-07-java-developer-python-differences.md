@@ -1,6 +1,6 @@
 ---
 title: "Java 개발자가 Python 처음 배울 때 헷갈리는 것들"
-date: 2026-04-04 09:00:00 +0900
+date: 2026-04-07 22:00:00 +0900
 categories: [Python, 입문]
 tags: [Python, Java, CSharp, Python입문, 문법비교, 개발자전환]
 description: Java/C# 개발자 관점에서 Python 입문할 때 헷갈리는 문법 차이점 7가지를 정리합니다.
