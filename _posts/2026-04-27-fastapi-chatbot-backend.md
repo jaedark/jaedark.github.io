@@ -2,7 +2,7 @@
 title: "FastAPI + Gemini API로 멀티턴 챗봇 백엔드 구현"
 date: 2026-04-27 22:00:00 +0900
 categories: [AI 개발 실습]
-tags: [fastapi, 7, chatbot, backend, python, session, pydantic, uvicorn]
+tags: [fastapi, chatbot, backend, python, session, pydantic, uvicorn]
 ---
 
 ## 개요
